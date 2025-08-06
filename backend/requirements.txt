@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pymongo
+python-dotenv
+python-jose[cryptography]
+passlib[bcrypt]
+requests
+google-generativeai
+PyMuPDF
+google-api-python-client
+serpapi
+email-validator
+motor
+python-multipart
+google-search-results

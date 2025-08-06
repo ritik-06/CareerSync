@@ -1,0 +1,38 @@
+# === PYTHON (Backend) ===
+backend/venv/
+__pycache__/
+*.py[cod]
+*.sqlite3
+*.db
+.env
+
+# === NODE/REACT (Frontend) ===
+frontend/node_modules/
+frontend/dist/
+frontend/.local
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# === LOGS ===
+logs
+*.log
+
+# === SYSTEM FILES ===
+.DS_Store
+
+# === IDE/EDITOR FILES ===
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
+
+# === BUILD FILES ===
+dist
+dist-ssr
