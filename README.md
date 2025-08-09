@@ -42,3 +42,12 @@ Skill-based job suggestions.
 AI-generated job descriptions.
 
 Context-aware Q&A for aptitude & interview questions.
+
+🛠 Tech Stack
+Category	Technologies
+Frontend	React.js, Tailwind CSS, Axios, React Router, Context API
+Backend	FastAPI, PyMuPDF, Gemini 1.5 API, YouTube API, SerpAPI
+Database	MongoDB (Motor)
+Authentication	JWT, bcrypt
+File Upload	Multer
+Deployment	Render, MongoDB Atlas
